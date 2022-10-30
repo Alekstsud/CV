@@ -22,19 +22,6 @@
 * GiTBash, VSCode, Postman, AndroidStudio, Charles basics 
 * OS Windows, Linux basics
 
-## Code example:
-
-```javascript
-function testArray(a, b) {
-    var sum = 0;
-    for(var i = 0; i < a.length; i++) {
-    sum += a[i]};
-    for(var i = 0; i < b.length; i++) {
-    sum += b[i]};
-    return sum;
-}
-```
-
 ## Courses:
 
 * e-learning EPAM:
