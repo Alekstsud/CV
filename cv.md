@@ -5,7 +5,7 @@
 ## Contacts
 
 * Location: Belarus, Poland
-* Phone: +375(25)7020763
+* Phone: +375(25)7020763; +48512431102
 * Email: agtsudzila@gmail.com
 * [Telegram](https://t.me/alekstsud)
 * [GitHub](https://github.com/Alekstsud)
