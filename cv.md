@@ -53,8 +53,8 @@ function testArray(a, b) {
 
 * Read:
     * Svyatoslav Kulikov:
-        1. "Software testing";
-        2. "Relational databases".
+        * "Software testing";
+        * "Relational databases".
 
     * Roman Savin "dot COM testing."
 
@@ -71,6 +71,6 @@ function testArray(a, b) {
 
 ## Languages:
 
-* English (A2 - ability to read and understand technical documentation)
+* English (B1)
 * Polish(A1)
 * Russian (Native)
