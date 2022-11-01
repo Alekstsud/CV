@@ -19,7 +19,8 @@
 * Good communication skills
 * HTML, CSS, JS & PHP basics, Figma, Markdown
 * SQL(MySQL - select, join), Databases basics
-* GiTBash, VSCode, Postman, AndroidStudio, Charles basics 
+* GiT, VSCode, Postman, AndroidStudio basics, Charles basics 
+* Jira, TestRail
 * OS Windows, Linux basics
 
 ## Courses:
